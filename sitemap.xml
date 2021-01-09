@@ -3,6 +3,7 @@
 <url> <loc>https://serradas.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://serradas.org/2020-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/second-brain-manifesto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/12-startups-in-12-months-second-brain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/how-to-have-and-prioritise-ideas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -20,6 +21,7 @@
 <url> <loc>https://serradas.org/tags/lists</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/tags/plan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/tags/recommendations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://serradas.org/tags/review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/tags/startup</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/tags/startups</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://serradas.org/tags/tech</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
