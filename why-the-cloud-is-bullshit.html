@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>
+   Serradas.org - Why the cloud is bullshit
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="Pelican" name="generator"/>
+  <link href="https://serradas.org/feeds/all.atom.xml" rel="alternate" title="Serradas.org Full Atom Feed" type="application/atom+xml"/>
+  <link href="https://serradas.org/feeds/ideas.atom.xml" rel="alternate" title="Serradas.org Categories Atom Feed" type="application/atom+xml"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://serradas.org/theme/css/style.css" rel="stylesheet" type="text/css"/>
+  <meta content="Ruben's personal website. Ideas and projects." name="description">
+   <meta content="Initial ideas and train of thought for starting RocketLauncher." name="description"/>
+   <meta content="cloud" name="tags"/>
+  </meta>
+  <link href="https://serradas.org/why-the-cloud-is-bullshit.html" rel="canonical"/>
+  <script type="application/ld+json">
+   {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Serradas.org", "item": "https://serradas.org"}, {"@type": "ListItem", "position": 2, "name": "Why the cloud is bullshit", "item": "https://serradas.org/why-the-cloud-is-bullshit.html"}]}
+  </script>
+  <script type="application/ld+json">
+   {"@context": "https://schema.org", "@type": "Article", "author": {"@type": "Person", "name": "Ruben Serradas"}, "publisher": {"@type": "Organization", "name": "Serradas.org"}, "headline": "Why the cloud is bullshit", "about": "ideas", "datePublished": "2020-01-29 21:06"}
+  </script>
+ </head>
+ <body id="index">
+  <header id="banner">
+  </header>
+  <!-- /#banner -->
+  <h1>
+   <a href="https://serradas.org/">
+    Serradas.org
+   </a>
+  </h1>
+  <nav id="menu">
+   <span>
+    [
+   </span>
+   <a href="/archives">
+    Blog
+   </a>
+   <span>
+    ]
+   </span>
+   <div style="float: right;">
+    <span>
+     [
+    </span>
+    <a href="https://www.goodreads.com/rubenserradas">
+     Reading
+    </a>
+    <span>
+     |
+    </span>
+    <a href="https://github.com/RubenSerradas/">
+     Code
+    </a>
+    <span>
+     ]
+    </span>
+   </div>
+  </nav>
+  <!-- /#menu -->
+  <hr/>
+  <div>
+   <section class="body" id="content">
+    <header>
+     <h1 class="entry-title">
+      <a href="https://serradas.org/why-the-cloud-is-bullshit.html" rel="bookmark" title="Permalink to Why the cloud is bullshit">
+       Why the cloud is bullshit
+      </a>
+     </h1>
+    </header>
+    <footer class="post-info">
+     <time class="published" datetime="2020-01-29T21:06:50+01:00">
+      Jan 2020
+     </time>
+     <address class="vcard author">
+      <strong>
+       By
+      </strong>
+      <a class="url fn" href="https://serradas.org/author/ruben-serradas.html">
+       Ruben Serradas
+      </a>
+     </address>
+     <div class="category">
+      <strong>
+       Category:
+      </strong>
+      <a href="https://serradas.org/category/ideas.html">
+       ideas
+      </a>
+     </div>
+     <div class="tags">
+      <strong>
+       Tags:
+      </strong>
+      <a href="https://serradas.org/tag/cloud.html">
+       cloud
+      </a>
+     </div>
+     <br/>
+    </footer>
+    <!-- /.post-info -->
+    <div class="entry-content">
+     <p>
+      Yeah I said it. The cloud is fucking bullshit. You know it, I know it, Jeff Bezzos knows it. But it seems like nowadays every company is moving 
+towards to different cloud providers. 
+Moreover 2020 is the year where companies are choosing to use the cloud over their own servers. 
+But why? Because managing your own physical infrastructure is painful and costly.
+     </p>
+     <p>
+      In this environment it’s only logical that companies are taking the steps needed to remove any maintenance cost.
+ This way technologists are focused 100% in the business and the money is invested more efficiently. Sounds good right?
+     </p>
+     <p>
+      Guess what? You’ll still need to maintain your cloud infrastructure and it’s easy to make mistakes. Were you using a database for testing and forgot
+ to delete it? Yeah that’s going to be 800$ extra this month. You didn’t consider these expenses and 
+we didn’t tell you about it? Well since we follow the shared responsibility principle, this is 100% your fault. 
+The main advantage of the cloud is that it’s
+      <em>
+       E L A S T I C
+      </em>
+      .
+     </p>
+     <p>
+      One cool thing about many cloud providers like AWS is that they offer services for your own infrastructure that you can use easily with their libraries. But now let’s say you have a team of engineers that know what they’re doing and you’re happy with the current setup. Everything is automated and they’re following all the best practices. They’re even taking advantage of all the options provided by your cloud provider! What happens if the cloud provider decides to change the pricing for a particular service and you depend on it?
+     </p>
+     <p>
+      Normally you’ll have to:
+ * Evaluate a new solution.
+ * Decide from the douzens of open source solutions that are out there: This is easier said than done. Nerds tend to argue a lot.
+ *  Make a migration plan.
+ * Migrate: This is a never ending task.
+     </p>
+     <p>
+      But yeah this is just fear mongering. Your team can just simply go for those sweet open source solutions out there. 
+Besides, your cloud provider probably it’s offering multiple managed open source solutions! 
+So generous of them! They’re doing so much for the FOSS community. Nice, I just see 2 problems with this:
+     </p>
+     <ol>
+      <li>
+       What happens if they don’t provide the open source solution and it’s an integral part of your architecture? 
+Then you maintain it baby. Have fun hiring that guy who’s an expert on that technology and he’s expecting a big fat salary for that.
+      </li>
+      <li>
+       The managed solution is kinda open source. So basically your team won’t have full control over it and you won’t have the latest features. 
+What? Am I being too naggy? Well maybe but it’s still true. Normally these services are updated slower than the rate their FOSS brothers are being released. There’s a bug that was fixed in a newer version? Well you’ll have to wait, along with hundreds of others companies that are in line.
+      </li>
+     </ol>
+     <p>
+      Last but not least, the overall pricing for the cloud is just insane. Most of the big cloud providers give you a calculator so you can predict 
+your infrastructure prices. But basically you don’t know how the business is going to look like in the future. 
+You also don’t know how the prices of their services is going to change so it’s a futile exercise. 
+Once you’re there using their services it’s also really hard to know what’s happening, since they charge for things you cannot predict like network usage.
+     </p>
+     <p>
+      So what’s the deal how can we fix this? I don’t know to be honest. 
+I’m still thinking about it. Do you want to see something cool? Go to
+      <a href="https://getrocketlauncher.com">
+       getrocketlauncher.com
+      </a>
+      . 
+We’re trying to remove a little bit of bullshit day by day.
+     </p>
+     <p>
+      <img alt="alt text" src="https://serradas.org/images/old-man-yells-at-cloud.jpeg" title="Old man yelling at cloud"/>
+     </p>
+    </div>
+    <!-- /.entry-content -->
+   </section>
+  </div>
+  <hr/>
+  <footer class="footer">
+   <p xmlns:cc="http://creativecommons.org/ns#">
+    This work is licensed under
+    <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" rel="license noopener noreferrer" style="display:inline-block;" target="_blank">
+     CC BY-NC 4.0
+    </a>
+   </p>
+  </footer>
+  <!-- /#contentinfo -->
+ </body>
+</html>

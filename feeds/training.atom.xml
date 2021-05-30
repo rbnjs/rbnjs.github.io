@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Serradas.org - training</title><link href="https://serradas.org/" rel="alternate"></link><link href="https://serradas.org/feeds/training.atom.xml" rel="self"></link><id>https://serradas.org/</id><updated>2020-07-11T00:00:00+02:00</updated><entry><title>Training Fundamentals</title><link href="https://serradas.org/training-fundamentals.html" rel="alternate"></link><published>2020-07-11T00:00:00+02:00</published><updated>2020-07-11T00:00:00+02:00</updated><author><name>Ruben Serradas</name></author><id>tag:serradas.org,2020-07-11:/training-fundamentals.html</id><summary type="html">&lt;p&gt;I want to improve my software shipping skill. For that I'll follow a training regime for writing
+SaaS web applications.&lt;/p&gt;
+&lt;p&gt;The process can be summed up like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Write and finish as much software as you can.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There you go. You can stop reading now.&lt;/p&gt;
+&lt;p&gt;You're still here? I'll list …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I want to improve my software shipping skill. For that I'll follow a training regime for writing
+SaaS web applications.&lt;/p&gt;
+&lt;p&gt;The process can be summed up like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Write and finish as much software as you can.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There you go. You can stop reading now.&lt;/p&gt;
+&lt;p&gt;You're still here? I'll list the most common advices that
+we give as software engineers. The one I got when I was starting out as a 
+developer.&lt;/p&gt;
+&lt;p&gt;I'll explain why it doesn't work as many people would expect it to do. The Pots' story from the book Art &amp;amp; Fear illustrates
+this point pretty well.&lt;/p&gt;
+&lt;p&gt;Finally, I'll note the number of things you need to know to do a SaaS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Common advices in our industries to improve as a software engineer are passive.&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read Books&lt;/li&gt;
+&lt;li&gt;Get your code reviewed by senior developers&lt;/li&gt;
+&lt;li&gt;Read the source code of popular projects.&lt;/li&gt;
+&lt;li&gt;Attend conferences.&lt;/li&gt;
+&lt;li&gt;Find a mentor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most of my career when other developer asked me for advice I'd have said something similar. &lt;/p&gt;
+&lt;p&gt;I followed every single recommendation. My skills improved theoretically.
+I'd know where to look for documentation and how to reason about problems. But that's a different 
+skill set than the one we're training.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The only way to improve a skill is to do it consistently.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can read all the books you want about swimming but if you never get into the pool you'll never know 
+if you can swim or not.&lt;/p&gt;
+&lt;p&gt;The pots' story from Art and Fear and also &lt;a href="https://medium.com/startup-leadership/the-best-way-to-learn-something-make-a-lot-of-pots-7f4aa97e1d3a"&gt;written by Eric Scott in his blog&lt;/a&gt; illustrates well this point (just copying here):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A pottery teacher split her class into two halves.&lt;/p&gt;
+&lt;p&gt;To the first half she said, “You will spend the semester studying pottery, planning, designing, and creating your perfect pot. At the end of the semester, there will be a competition to see whose pot is the best”.&lt;/p&gt;
+&lt;p&gt;To the other half she said, “You will spend your semester making lots of pots. Your grade will be based on the number of completed pots you finish. At the end of the semester, you’ll also have the opportunity to enter your best pot into a competition.”&lt;/p&gt;
+&lt;p&gt;The first half of the class threw themselves into their research, planning, and design. Then they set about creating their one, perfect pot for the competition.&lt;/p&gt;
+&lt;p&gt;The second half of the class immediately grabbed fistfulls of clay and started churning out pots. They made big ones, small ones, simple ones, and intricate ones. Their muscles ached for weeks as they gained the strength needed to throw so many pots.&lt;/p&gt;
+&lt;p&gt;At the end of class, both halves were invited to enter their most perfect pot into the competition. Once the votes were counted, all the best pots came from the students that were tasked with quantity. The practice they gained made them significantly better potters than the planners on a quest for a single, perfect pot.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Developers tend to get stuck in the researching, planning and designing loop. Trying to make everything perfect.
+Finding the best practices and the best frameworks. This is useless for reaching the end goal: writing something useful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Having said that we still need to have a small plan to improve certain skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you want to build Software as a Service applications. You'll need to focus on the following areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of a web application.&lt;/li&gt;
+&lt;li&gt;CSS.&lt;/li&gt;
+&lt;li&gt;Pricing Page and Subscription.&lt;/li&gt;
+&lt;li&gt;User Management.&lt;/li&gt;
+&lt;li&gt;Deployment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let's go through each of them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Basic of a Web Application&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is a never-ending way of building web applications. I choose Ruby and Rails. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An Elegant Weapon for a more civilized age.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I learned Ruby + JavaScript a long time ago. Basically by reading all the books I could find. 
+Here are some old and new articles for learning it:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/documentation/quickstart/"&gt;Learning Ruby in 20 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/"&gt;Learning Ruby from Zero to Hero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://eloquentjavascript.net/"&gt;Eloquent JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://guides.rubyonrails.org/getting_started.html"&gt;Getting Started with Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.railstutorial.org/"&gt;Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html"&gt;Working with JavaScript in Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;CSS&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CSS is my weakness. I'll write another article about this. But for now I'll use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/documentation/quickstart/"&gt;tailwindcss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://getbootstrap.com/"&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pricing and Subscription&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://stripe.com/"&gt;Stripe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://paddle.com/"&gt;Paddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jasminek.net/blog/post/payment-solutions/"&gt;Which Subscription Payment Service Should A Bootstrapping SaaS Choose?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;User Management&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/heartcombo/devise"&gt;devise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/CanCanCommunity/cancancan"&gt;CanCanCan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Deployment&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://aws.amazon.com/es/elasticbeanstalk/"&gt;Elastic Beanstalk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.docker.com/"&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So there you go. I believe that the only way of improving a skill is to consistently do it.
+Common practices to improve are normally passive and they don't work as expected.
+My plan is to go through the basics of a web application, CSS, pricing, user management and finally
+deployment.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://bullettrain.co/"&gt;Bullet Train&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://railskits.com/"&gt;Rails Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.getsjabloon.com/"&gt;sjabloon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jumpstartrails.com/"&gt;Jumpstartrails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kiso.io/"&gt;Kiso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dbader.org/blog/how-to-become-a-better-software-developer"&gt;How to become a better software developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ayothewriter.com/literally-improve-craft-one-billion-percent/"&gt;How to Become a billion better at your craft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/startup-leadership/the-best-way-to-learn-something-make-a-lot-of-pots-7f4aa97e1d3a"&gt;The Best Way Of Learning Something? Make a lot of pots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tailwindcss.com/"&gt;tailwindcss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tailwindtoolbox.com/"&gt;tailwindtoolbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation"&gt;Tailwind Starter Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tailwindcomponents.com/"&gt;tailwindcomponents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nerdcave.com/tailwind-cheat-sheet"&gt;Tailwind CSS Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="training"></category><category term="learn"></category><category term="training"></category></entry></feed>

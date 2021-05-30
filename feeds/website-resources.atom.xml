@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Serradas.org - website-resources</title><link href="https://serradas.org/" rel="alternate"></link><link href="https://serradas.org/feeds/website-resources.atom.xml" rel="self"></link><id>https://serradas.org/</id><updated>2019-12-29T21:44:50+01:00</updated><entry><title>Website Resources</title><link href="https://serradas.org/website-resources.html" rel="alternate"></link><published>2019-12-29T21:44:50+01:00</published><updated>2019-12-29T21:44:50+01:00</updated><author><name>Ruben Serradas</name></author><id>tag:serradas.org,2019-12-29:/website-resources.html</id><summary type="html">&lt;p&gt;I've launched several personal projects websites since I started to code professionally in Europe. They had to do with different topics that ranged from startups to potential open source solutions. I wrote the websites in different moments of my life, but I noticed a similar experience every-time:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I researched for …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;I've launched several personal projects websites since I started to code professionally in Europe. They had to do with different topics that ranged from startups to potential open source solutions. I wrote the websites in different moments of my life, but I noticed a similar experience every-time:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I researched for a website building framework or a content management system: that's pretty straightforward ✅.&lt;/li&gt;
+&lt;li&gt;I wrote the content for the website: not easy but for a first "good enough" version is not so bad ☑️.&lt;/li&gt;
+&lt;li&gt;I looked online for some nice illustrations and logos for the website: this was the hardest step for me ⛔️.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What did I do to fix this problem at those moments? Well I used the method that solves everything: I threw some money at the problem. The outcome at the end? At the beginning it worked fine but when the project failed I always got a bittersweet aftertaste.&lt;/p&gt;
+&lt;p&gt;I stumbled randomly recently with a hackernews article which provided free illustrations and resources for creating websites that really excited me. Unfortunately I didn't save the article, just the project. To avoid that in the future I'm writing a list of resources for my future self.&lt;/p&gt;
+&lt;p&gt;I'm going to organise the list in resources that I've used in real life and another for things that I need to consider later on.&lt;/p&gt;
+&lt;h2&gt;Real Life Ruben Usage:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://undraw.co/"&gt;undraw&lt;/a&gt;: open source illustrations for any project. This is the project that inspired me to write this article.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.drawkit.io/"&gt;DrawKit&lt;/a&gt;: Not open source but it has some free illustration. There's also some paid content.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/oxalorg/sakura"&gt;sakura&lt;/a&gt;: Classless css framework.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;To Consider:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/neutraltone/Awesome-Stock-Resources#public-domain"&gt;Awesome Stock Resources List&lt;/a&gt;: Awesome Github list of stock resources.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/heyalexej/awesome-images"&gt;Awesome Images&lt;/a&gt;: Awesome Github list of images.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I'm going to be updating this from time to time. Do you know any other resource that I can include? Let me know!&lt;/p&gt;
+&lt;p&gt;I hope this can be helpful to you too.&lt;/p&gt;</content><category term="website-resources"></category><category term="lists"></category><category term="recommendations"></category></entry></feed>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Serradas.org - ideas-system</title><link href="https://serradas.org/" rel="alternate"></link><link href="https://serradas.org/feeds/ideas-system.atom.xml" rel="self"></link><id>https://serradas.org/</id><updated>2020-07-15T00:00:00+02:00</updated><entry><title>How to have and prioritise ideas?</title><link href="https://serradas.org/how-to-have-and-prioritise-ideas.html" rel="alternate"></link><published>2020-07-15T00:00:00+02:00</published><updated>2020-07-15T00:00:00+02:00</updated><author><name>Ruben Serradas</name></author><id>tag:serradas.org,2020-07-15:/how-to-have-and-prioritise-ideas.html</id><summary type="html">&lt;p&gt;When you're a maker, you probably have at least one of these problems:
+* You have &lt;strong&gt;no ideas&lt;/strong&gt;.
+* You have &lt;strong&gt;too many ideas&lt;/strong&gt;. But not enough time to work on all of them.&lt;/p&gt;
+&lt;p&gt;I've been many times in that position. &lt;/p&gt;
+&lt;p&gt;That's why &lt;strong&gt;I want to design a system to come up …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;When you're a maker, you probably have at least one of these problems:
+* You have &lt;strong&gt;no ideas&lt;/strong&gt;.
+* You have &lt;strong&gt;too many ideas&lt;/strong&gt;. But not enough time to work on all of them.&lt;/p&gt;
+&lt;p&gt;I've been many times in that position. &lt;/p&gt;
+&lt;p&gt;That's why &lt;strong&gt;I want to design a system to come up and prioritise my ideas&lt;/strong&gt;.
+I'm going to take Paul Graham's ideas types: organic and necessary ideas. 
+From this classification, I'll list the problems I have from my daily and professional life. 
+Finally, I'll explain the management matrix that I'll use to prioritise ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How do you come up with startup ideas?&lt;/strong&gt; From the great &lt;a href="http://paulgraham.com/organic.html"&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He divides the different startups ideas in two:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ones that &lt;strong&gt;grow organically from your own life&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The ones that&lt;/strong&gt; you decide, from afar, that &lt;strong&gt;are going to be necessary&lt;/strong&gt; to some class of users other than you. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let's make this exercise together. I'll write my ideas and categorise them following Paul's classification. 
+We can prioritise them with management matrix. This way we'll check if the system
+to come up and prioritise ideas is valid.&lt;/p&gt;
+&lt;h3&gt;What's missing or broken in your daily life?&lt;/h3&gt;
+&lt;p&gt;Have you ever wished for someone else to build a product for you? That's the purpose of this question.
+You might think that building something for only one person is silly. But here are some advantages:
+* You already know there's a real problem.
+* You already have a user (you!).&lt;/p&gt;
+&lt;p&gt;Here are my real life problems:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Passport&lt;/strong&gt;: I think this is the biggest one for me in my life currently. The Venezuelan embassy is unreliable and it's offering
+only extensions to my old passport. This makes things really hard to do sometimes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visa&lt;/strong&gt;: If you're not an EU citizen, you need to ask for a visa for different countries. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Money&lt;/strong&gt;: Receiving and sending money in Venezuela is really hard. Especially for people who don't have an international account.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local Time Zone&lt;/strong&gt;: When you have friends scattered around the world is hard to coordinate and maintain a communication.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Finding a flat&lt;/strong&gt;: There are many loops that people need to pass in order to have a flat in Germany. Also, Immobilienscout is a joke.
+  Can you change the Market Dynamics? Will the landlord always have power? Can we have a system that will allow you to have
+  multiple options all the time?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discover Music&lt;/strong&gt;: I don't want to be social on Spotify nor only talk about music in 4chan. It would be nice to have a HackerNews
+for music. Also Streaming sucks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paleo Recipes&lt;/strong&gt;: Find new and easy to make Paleo food.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pocket Clone but good&lt;/strong&gt;: Only links, be able to read from computer to phone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A decent idea board&lt;/strong&gt; This is probably one of the hardest problems. I've seen people using Trello or Google Keep but I've neever
+been happy with the alternatives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A decent collaboration tool for chat&lt;/strong&gt; Microsoft Teams and Slack are still not there. There's something missing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Whiteboard&lt;/strong&gt; Have you ever used a decent Whiteboard application with people? Write me if you have.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tandem App&lt;/strong&gt; I'd like to help and be helped while learning a new language.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write Tweets as if it were a Github project&lt;/strong&gt;.  You can think of a Twitter account as a state of tweets. If you
+change a particular project then the application would change the state on a regular basis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Ideas that are going to be necessary.&lt;/h3&gt;
+&lt;p&gt;There are some risks involved with working with ideas that you think are necessary. For example:
+* You need to have domain knowledge from the problem.
+* You need to have a group of potential customers who are interested in solving the problem.
+* You need to validate if these people will pay for your product.&lt;/p&gt;
+&lt;p&gt;These are all the things I've noticed that people miss. For Rocket Launcher
+and the resource optimisation tool I've had several talks with CEOs, CTOs and System Administrators from tech companies. 
+For the other ideas it's just a hunch.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rocket Launcher&lt;/strong&gt;. I believe that we need a standardized CI/CD solution for small and medium companies to use. 
+Think convention over configuration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource optimisation for Cloud&lt;/strong&gt; One of the greatest challenges of maintaining a cloud infrastructure is to have
+everything in check and optimising for the price.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profile-less Dating App&lt;/strong&gt; The major problem I see with traditional dating sites is the need of having a profile.
+Would be nice to meet people without having a description of yourself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create a CI/CD with a README.md file&lt;/strong&gt; READMEs are outdated constantly. If we can have a relationship between
+the README and the CI/CD pipeline then we'll always have an updated documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Model to Prioritise my ideas&lt;/h3&gt;
+&lt;p&gt;Let's organise the list of ideas we can work on.
+I'm going to use the prioritisation matrix taken from my buddy Fabio Ferrari.
+Finally, I'll summarise everything with a small list of projects I'll work on my &lt;a href="/12-startups-in-12-months"&gt;12 Startups in 12 Months&lt;/a&gt; idea.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So how to prioritise my ideas?&lt;/strong&gt; I'll consider 2 variables:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;How important is this idea for me?&lt;/strong&gt; I want to write apps that will make me proud in the future. Something I can use
+in my day-to-day life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can I actually pull it off?&lt;/strong&gt; Shipping and finishing a software product is a skill. Overambitious projects are great but I just
+want to invest one month to: finish a minimum viable product, promote it, and get feedback. Therefore, I need to be really focused here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This can be expressed in a simple Excel Sheet:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="prioritise-list" src="https://serradas.org/images/prioritise-list.png"&gt;&lt;/p&gt;
+&lt;p&gt;I'll take the ideas that are really important for me and I can pull it off easily. A five out of five.&lt;/p&gt;
+&lt;p&gt;Here's the finished table:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="finished-list" src="https://serradas.org/images/filled-table.png"&gt;&lt;/p&gt;
+&lt;p&gt;Once I sum the scores from the headers, we get the following:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;7&lt;/th&gt;
+&lt;th&gt;6&lt;/th&gt;
+&lt;th&gt;5&lt;/th&gt;
+&lt;th&gt;4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Rocket Launcher&lt;/td&gt;
+&lt;td&gt;Money Sending&lt;/td&gt;
+&lt;td&gt;Paleo&lt;/td&gt;
+&lt;td&gt;Idea Board&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flat Rental&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Whiteboard&lt;/td&gt;
+&lt;td&gt;CI/CD Readme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Music Share&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Profile-less Date&lt;/td&gt;
+&lt;td&gt;Tweets&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pocket Clone&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Chat Collaboration&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Tandem&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Local Time Zone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;So I can choose from all the 7-score problems. I've already started with &lt;a href="https://getrocketlauncher.com"&gt;RocketLauncher&lt;/a&gt; (if you haven't
+noticed). I'll go from easy to solve to hard:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pocket Clone App&lt;/li&gt;
+&lt;li&gt;Music Share App&lt;/li&gt;
+&lt;li&gt;Flat Rental Problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So there you go! This is a simple way of organising ideas. It only considers 2 variables: importance and easiness.&lt;/p&gt;
+&lt;p&gt;If you want to follow a similar approach here's a link to the template:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/spreadsheets/d/1_IEndIJCYnPMOTkBatqaaUr2NUmxT6FBB31WvWXAxXQ/edit?usp=sharing"&gt;Priority Template&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;How do you have and prioritise ideas? The process can be summarised in these steps:
+* Ask yourself what's missing in your life?
+* Ask which product is missing for a certain group of people?
+* Organise these list in a management matrix with 2 variables: attainability and personal importance.&lt;/p&gt;
+&lt;p&gt;You'll be able to take the most relevant and start working on them. Good luck!&lt;/p&gt;
+&lt;p&gt;If you want to stay in touch, subscribe to my newsletter.&lt;/p&gt;
+&lt;form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/rubenserradas" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/rubenserradas', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"&gt;&lt;p&gt;&lt;label for="tlemail"&gt;Enter your email address&lt;/label&gt;&lt;/p&gt;&lt;p&gt;&lt;input type="text" style="width:140px" name="email" id="tlemail" /&gt;&lt;/p&gt;&lt;input type="hidden" value="1" name="embed"/&gt;&lt;input type="submit" value="Subscribe" /&gt;&lt;p&gt;&lt;a href="https://tinyletter.com" target="_blank"&gt;powered by TinyLetter&lt;/a&gt;&lt;/p&gt;&lt;/form&gt;
+
+&lt;p&gt;We can also talk on &lt;a href="https://twitter.com/RubenSerradas/"&gt;Twitter&lt;/a&gt;.&lt;/p&gt;</content><category term="ideas-system"></category><category term="ideas"></category></entry></feed>
